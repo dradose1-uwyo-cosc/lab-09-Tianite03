@@ -1,8 +1,8 @@
-# Your Name Here
+# Talon Bluemel
 # UWYO COSC 1010
-# Submission Date
-# Lab XX
-# Lab Section:
+# 10-14-24
+# Lab 9
+# Lab Section:12
 # Sources, people worked with, help given to:
 # Your
 # Comments
